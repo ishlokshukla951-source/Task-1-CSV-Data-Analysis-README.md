@@ -1,0 +1,27 @@
+QSkill Internship – Python Development
+Task 1: CSV Data Analysis
+
+OBJECTIVE
+Load a CSV file using Pandas, perform basic data analysis, create visualizations using Matplotlib/Seaborn, and provide insights.
+
+DATASET
+Student performance sample dataset with 20 records and 7 original columns.
+
+TECHNOLOGIES
+Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab/Jupyter Notebook.
+
+ANALYSIS PERFORMED
+1. Loaded the CSV file.
+2. Inspected rows, columns, data types, and statistical summary.
+3. Checked missing values and duplicate rows.
+4. Calculated average Math, Science, English marks and attendance.
+5. Calculated each student's average marks.
+6. Created a bar chart for average marks by subject.
+7. Created a bar chart for the top 10 students by average marks.
+8. Created a scatter plot for Attendance vs Average Marks.
+9. Created a correlation heatmap.
+10. Identified highest and lowest average performers.
+11. Generated data-driven observations.
+
+CONCLUSION
+The dataset was successfully analyzed using Pandas. Visualizations were created using Matplotlib and Seaborn to communicate patterns in the data. The notebook produces the numerical observations directly from the CSV rather than manually entering results.
